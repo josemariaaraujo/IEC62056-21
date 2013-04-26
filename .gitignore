@@ -1,8 +1,14 @@
 *.user
 *.suo
 *.sln.cache
-[bB]in/
 [oO]bj/
 *.xap
 _ReSharper.*
 TestResults/
+/Docs
+/Python
+/bin/x86/Release/IEC62056-21.exe.config
+/bin/x86/Release/IEC62056-21.pdb
+/bin/x86/Release/IEC62056-21.vshost.exe
+/bin/x86/Release/IEC62056-21.vshost.exe.config
+/bin/x86/Release/IEC62056-21.vshost.exe.manifest
